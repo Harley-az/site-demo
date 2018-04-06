@@ -16,6 +16,11 @@
     </style>
 </head>
 <body>
+
     <h1>Hi everybody, it's friday !!! Have fun !</h1>
+
+    C'est vendredi<br>
+  
+
 </body>
 </html>
